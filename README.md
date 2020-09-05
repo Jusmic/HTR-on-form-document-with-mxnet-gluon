@@ -1,3 +1,3 @@
 # HTR_on_form_document_with_mxnet_gluon
 
-This work enables anyone to perfom handwriting text recognition on form's document by using MXNet Gluon with the iam dataset! It was implemented on google colab. Install the requirements and enjoy the code!
+Ce travail permet d'effectuer de la reconnaissance d'écritures manuscrites sur des formulaires en utilisant MXNet Gluon avec le jeu de données iam! Il a été implémenté sur google colab. Installez les exigences et profitez du code!
