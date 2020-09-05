@@ -1,0 +1,7 @@
+Make sure to install all of these libraries
+
+mxnet
+gluonnlp
+leven
+mxboard
+sacremoses
